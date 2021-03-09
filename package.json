@@ -1,12 +1,12 @@
 {
   "name": "sass-clone-instagram",
   "version": "1.0.0",
-  "description": "",
+  "description": "project for Assembler School clone instagram style using sass",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Ramón Soler Hernán",
   "license": "ISC"
 }
